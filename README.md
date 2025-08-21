@@ -1,2 +1,2 @@
 # ht-code.github.io
-weblog website
+application notes website
